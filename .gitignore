@@ -2,4 +2,7 @@ node_modules/
 dist/
 .playwright-cli/
 *.log
+*.png
+*.jpg
+*.jpeg
 .DS_Store
